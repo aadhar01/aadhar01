@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aadhar01
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning about ml ai data science and peogramming, and natural medicines.
-- 💞️ I’m looking to collaborate on anyhing that interests me
+- 🌱 I’m currently learning about Robotics, ML, AL, Data Science and peogramming, and natural medicines.
+- 💞️ I’m looking to collaborate on anything that interests me
 - 📫 You can reach me aadharbansal1@gmail.com
 
 <!---
